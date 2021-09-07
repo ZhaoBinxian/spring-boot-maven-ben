@@ -1,0 +1,2 @@
+INSERT INTO EXAMPLE
+VALUES (1, 'Andy');
